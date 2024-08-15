@@ -1,4 +1,4 @@
-** ## ETL Data Pipeline on Google Cloud with Cloud Data Fusion & Airflow **
+## ETL Data Pipeline on Google Cloud with Cloud Data Fusion & Airflow
 
 1] Data Generation: Utilized the Faker Library to generate synthetic employee data, including sensitive PII fields, and stored it in a Google Cloud Storage (GCS) bucket.
 
